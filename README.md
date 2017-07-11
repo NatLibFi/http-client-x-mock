@@ -1,4 +1,4 @@
-# HTTP client X mock  [![NPM Version](https://img.shields.io/npm/v/http-client-x-mock.svg)](https://npmjs.org/package/http-client-x-mock) [![Build Status](https://travis-ci.org/NatLibFi/http-client-x-mock.svg)](https://travis-ci.org/NatLibFi/http-client-x-mock) [![Test Coverage](https://codeclimate.com/github/NatLibFi/http-client-x-mock/badges/coverage.svg)](https://codeclimate.com/github/NatLibFi/http-client-x-mock/coverage)
+# HTTP client X mock  [![NPM Version](https://img.shields.io/npm/v/@natlibfi/http-client-x-mock.svg)](https://npmjs.org/package/@natlibfi/http-client-x-mock) [![Build Status](https://travis-ci.org/NatLibFi/http-client-x-mock.svg)](https://travis-ci.org/NatLibFi/http-client-x-mock) [![Test Coverage](https://codeclimate.com/github/NatLibFi/http-client-x-mock/badges/coverage.svg)](https://codeclimate.com/github/NatLibFi/http-client-x-mock/coverage)
 
 A mock for [HTTP client X](https://github.com/natlibfi/http-client-x). You can use the module to mock HTTP calls made by HTTP client X, [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or Node.js's [http](https://nodejs.org/dist/latest-v4.x/docs/api/http.html)/[https](https://nodejs.org/dist/latest-v4.x/docs/api/https.html) modules.
 
@@ -76,6 +76,6 @@ npm run check
 
 ## License and copyright
 
-Copyright (c) 2016 **University Of Helsinki (The National Library Of Finland)**
+Copyright (c) 2016-2017 **University Of Helsinki (The National Library Of Finland)**
 
-This project's source code is licensed under the terms of **GNU General Public License Version 3** or any later version.
+This project's source code is licensed under the terms of **GNU Lesser General Public License Version 3** or any later version.
